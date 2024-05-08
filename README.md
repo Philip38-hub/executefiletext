@@ -4,5 +4,9 @@ The incomplete program is completed, executed within the program and its ouput i
 
 ### imports
 os to read and write from input.txt and output.txt respectively
+
+
 os/exe to execute the formated program
+
+
 strings to replace the uwanted strings with the wanted so that the program is formatted effectively
